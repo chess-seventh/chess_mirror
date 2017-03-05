@@ -11,7 +11,7 @@ I will be creating a magic mirror inspired by (http://www.instructables.com/id/H
 
 As mentioned I will be using a RPi 2 B+ to make this project. I am currently using Raspbian Image for the OS but will most likely migrate to ARM Arch in a near future.
 
-I will also use my Arduino's to poll my home temperature and outsides' as well. I am currently waiting a major arrival of components to set up a 'home-made security center'... (still defining it)
+I will also use my Arduino's to poll my home temperature and outsides' as well. I am currently waiting a major arrival of components to set up a 'home-made' center... (still defining it) mostly arduino components to play with some basic electronics.... 
 
 ## Applications
 
@@ -53,3 +53,12 @@ Well you know.
 
 
 #### Twitter recent posts
+
+Use the twitter API to get the latest trending tweets from my feed (eventually).
+
+
+## Liscence
+
+Do whatever you want with it. 
+
+
