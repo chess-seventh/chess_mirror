@@ -68,8 +68,7 @@ class Meteo(object):
     print('')
     print('Wind Speed: {}'.format(self.data['wind']))
     print('Humidity: {}'.format(self.data['humidity']))
-    # print('Cloud: {}'.format(self.data['cloudiness']))
-    # print('Pressure: {}'.format(self.data['pressure']))
     print('')
+    print('---------------------------------------')
     print('---------------------------------------')
 
