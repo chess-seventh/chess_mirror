@@ -50,7 +50,7 @@ Thinking about implementing this as well. A common calendar for me and my lady t
 #### News / RSS Feed
 
 Well you know.
-
+News and all...
 
 #### Twitter recent posts
 
