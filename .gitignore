@@ -1,3 +1,8 @@
 *.pyc
 *.swp
-
+./backend/constants.py
+./backend/sms_sender/sms2.py
+./backend/sms_sender/sms.py
+./backend/sms_sender/sms_constants.py
+./backend/tpg/tpg_constants.py
+__pycache__/
