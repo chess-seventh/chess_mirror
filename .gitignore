@@ -1,5 +1,6 @@
 *.pyc
 *.swp
+./includes/
 ./backend/constants.py
 ./backend/sms_sender/sms2.py
 ./backend/sms_sender/sms.py
